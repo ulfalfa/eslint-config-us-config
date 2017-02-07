@@ -1,0 +1,9 @@
+{
+  "name": "eslint-config-us-config",
+  "version": "0.0.1",
+  "description": "ES lint configuration for my projects",
+  "main": "index.js",
+  "author": "ulfalfa",
+  "license": "MIT",
+  "repository": "https://github.com/ulfalfa/eslint-config-us-config.git"
+}
